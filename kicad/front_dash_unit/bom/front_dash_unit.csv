@@ -1,0 +1,25 @@
+"null","Sourced","Placed","References","Value","Footprint","Quantity"
+1,"","","C2, C3, C7, C8, C14, C16, C22, C23","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_L",8
+2,"","","C4, C6, C10, C11, C24, C25","22pF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_L",6
+3,"","","C9, C12","10uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_L",2
+4,"","","C17","330uF","CP_Radial_D10.0mm_P5.00mm_F",1
+5,"","","R3, R5, R6, R13, R14","4.7k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder_L",5
+6,"","","R9, R10, R11, R12","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder_L",4
+7,"","","R4, R8, R86","10M","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder_L",3
+8,"","","R2, R7",120,"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder_L",2
+9,"","","R1","1k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder_L",1
+10,"","","L1","330uH","L_10.4x10.4_H4.8",1
+11,"","","D1","LED","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",1
+12,"","","D2","1N5819","D_SMA_Handsoldering",1
+13,"","","U2, U8","TJA1050T_CM_118","SOIC127P600X175-8N",2
+14,"","","U3, U9","MCP2515-xST","TSSOP-20_4.4x6.5mm_P0.65mm",2
+15,"","","U1","ATmega328-A","TQFP-32_7x7mm_P0.8mm_L",1
+16,"","","U4","LM2575-5.0BU","TO-263-5_TabPin3",1
+17,"","","Y1, Y2, Y5","20MHz","Crystal_HC49-U_Vertical_W_SMD",3
+18,"","","F1","Fuse","Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder",1
+19,"","","SW1","SW_Push","SW_SPST_CK_RS282G05A3",1
+20,"","","H1, H2, H3, H4","MountingHole","MountingHole_4.3mm_M4",4
+21,"","","AVR-ISP1","Conn_02x03_Odd_Even","PinHeader_2x03_P2.54mm_Vertical",1
+22,"","","M1","HC-12","MA05-1",1
+23,"","","J1, J2, J3, J4, J6, J7, J8","Conn_01x04_Socket","JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical",7
+24,"","","J5","Conn_01x02_Socket","JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical",1

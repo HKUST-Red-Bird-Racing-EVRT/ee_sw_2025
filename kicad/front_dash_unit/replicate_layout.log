@@ -1,0 +1,59 @@
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Oct 13 2023, 05:50:11) [MSC v.1936 64 bit (AMD64)]'
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.11-rc3
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x0000023F8AAE49D0>
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with R11 as a reference
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G0 does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'R11'
+Located on: ['CAN0']
+With filenames: ['can_controller.kicad_sch']
+With sheet_id:['CAN0']
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('R11', ['CAN0']), ('R12', ['CAN1'])]
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'CAN0', file:'can_controller.kicad_sch'
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['CAN1']]
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['CAN0']
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(1556, 138)
+09-23 17:29:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1117, 138)
+09-23 17:29:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'CAN0', file:'can_controller.kicad_sch'
+09-23 17:29:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['CAN1']]
+09-23 17:29:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['CAN0']
+09-23 17:29:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'CAN0', file:'can_controller.kicad_sch'
+09-23 17:29:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['CAN1']]
+09-23 17:29:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['CAN0']
+09-23 17:29:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'CAN0', file:'can_controller.kicad_sch'
+09-23 17:29:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['CAN1']]
+09-23 17:29:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['CAN0']
+09-23 17:29:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'CAN0', file:'can_controller.kicad_sch'
+09-23 17:29:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['CAN1']]
+09-23 17:29:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 240:Starting replication of sheets: [['CAN1']]
+on level: ['CAN0']
+with tracks=False, zone=False, text=True, text=False, intersecting=False, remove=False, locked footprints=False, group_only=False
+09-23 17:29:05 root 332:updating GUI message: 'Preparing for replication'
+09-23 17:29:05 root 337:updating GUI with: 0
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Getting the list of source footprints
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:Getting the list of all the remaining footprints
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source tracks
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source zones
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source text items
+09-23 17:29:05 root 337:updating GUI with: 66
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 339:Getting source drawing items
+09-23 17:29:05 root 332:updating GUI message: 'Replicating footprints'
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 806:Replicating footprints
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['CAN1']
+09-23 17:29:05 root 332:updating GUI message: 'Replicating text'
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1136:Replicating text
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['CAN1']
+09-23 17:29:05 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
